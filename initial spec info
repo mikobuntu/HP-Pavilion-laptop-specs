@@ -15,7 +15,10 @@ Graphics:  Card: Advanced Micro Devices [AMD/ATI] Mullins [Radeon R4/R5 Graphics
            Resolution: 1366x768@59.99hz
            GLX Renderer: Gallium 0.4 on AMD MULLINS (DRM 2.43.0 / 4.4.0-96-lowlatency, LLVM 4.0.0)
            GLX Version: 3.0 Mesa 17.0.7 Direct Rendering: Yes
-Audio:     Card-1 Advanced Micro Devices [AMD] FCH Azalia Controller  ** Card-1 is default **
+Audio:     Card-1 Advanced Micro Devices [AMD] FCH Azalia Controller  
+
+           ** INFO ** Card-1 is default ** INFO **
+           
            driver: snd_hda_intel bus-ID: 00:14.2 chip-ID: 1022:780d
            Card-2 Advanced Micro Devices [AMD/ATI] Kabini HDMI/DP Audio
            driver: snd_hda_intel bus-ID: 00:01.1 chip-ID: 1002:9840
