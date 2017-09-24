@@ -1,0 +1,35 @@
+System:    Host: miko-HP-Pavilion-15-Notebook-PC Kernel: 4.4.0-96-lowlatency x86_64 (64 bit gcc: 5.4.0)
+           Desktop: Cinnamon 3.4.6 (Gtk 3.18.9) dm: lightdm Distro: Linux Mint 18.2 Sonya
+Machine:   System: Hewlett-Packard (portable) product: HP Pavilion 15 Notebook PC v: 0974120000405F00000620180
+           Mobo: Hewlett-Packard model: 2268 v: 73.35 Bios: American Megatrends v: F.33 date: 11/21/2014
+           Chassis: type: 10
+CPU:       Quad core AMD A8-6410 APU with AMD Radeon R5 Graphics (-MCP-) cache: 8192 KB
+           flags: (lm nx sse sse2 sse3 sse4_1 sse4_2 sse4a ssse3 svm) bmips: 15970
+           clock speeds: min/max: 1000/2000 MHz 1: 1400 MHz 2: 1200 MHz 3: 1800 MHz 4: 1200 MHz
+Graphics:  Card: Advanced Micro Devices [AMD/ATI] Mullins [Radeon R4/R5 Graphics]
+           bus-ID: 00:01.0 chip-ID: 1002:9851
+           Display Server: X.Org 1.18.4 drivers: ati,radeon (unloaded: fbdev,vesa)
+           Resolution: 1366x768@59.99hz
+           GLX Renderer: Gallium 0.4 on AMD MULLINS (DRM 2.43.0 / 4.4.0-96-lowlatency, LLVM 4.0.0)
+           GLX Version: 3.0 Mesa 17.0.7 Direct Rendering: Yes
+Audio:     Card-1 Advanced Micro Devices [AMD] FCH Azalia Controller
+           driver: snd_hda_intel bus-ID: 00:14.2 chip-ID: 1022:780d
+           Card-2 Advanced Micro Devices [AMD/ATI] Kabini HDMI/DP Audio
+           driver: snd_hda_intel bus-ID: 00:01.1 chip-ID: 1002:9840
+           Sound: Advanced Linux Sound Architecture v: k4.4.0-96-lowlatency
+Network:   Card-1: Realtek RTL8101/2/6E PCI Express Fast/Gigabit Ethernet controller
+           driver: r8169 v: 2.3LK-NAPI port: e000 bus-ID: 02:00.0 chip-ID: 10ec:8136
+           IF: eno1 state: down mac: <filter>
+           Card-2: Realtek RTL8191SU 802.11n WLAN Adapter usb-ID: 003-003
+           IF: N/A state: N/A mac: N/A
+Drives:    HDD Total Size: 1000.2GB (11.1% used)
+           ID-1: /dev/sda model: HGST_HTS541010A9 size: 1000.2GB serial: JA1002CR1HYP3L
+Partition: ID-1: / size: 910G used: 97G (12%) fs: ext4 dev: /dev/sda2
+           ID-2: swap-1 size: 7.45GB used: 0.00GB (0%) fs: swap dev: /dev/sda3
+RAID:      System: supported: N/A
+           No RAID devices: /proc/mdstat, md_mod kernel module present
+           Unused Devices: none
+Sensors:   System Temperatures: cpu: 50.1C mobo: N/A gpu: 45.0
+           Fan Speeds (in rpm): cpu: N/A
+Init: systemd v: 229 runlevel: 5 default: 2 Gcc sys: 5.4.0
+           Client: Unknown python2.7 client inxi: 2.2.35
