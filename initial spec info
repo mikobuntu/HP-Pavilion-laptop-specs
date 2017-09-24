@@ -6,6 +6,9 @@ Machine:   System: Hewlett-Packard (portable) product: HP Pavilion 15 Notebook P
 CPU:       Quad core AMD A8-6410 APU with AMD Radeon R5 Graphics (-MCP-) cache: 8192 KB
            flags: (lm nx sse sse2 sse3 sse4_1 sse4_2 sse4a ssse3 svm) bmips: 15970
            clock speeds: min/max: 1000/2000 MHz 1: 1400 MHz 2: 1200 MHz 3: 1800 MHz 4: 1200 MHz
+           
+           ** NOTE ** need to set CPU to performance permanently ** NOTE **
+           
 Graphics:  Card: Advanced Micro Devices [AMD/ATI] Mullins [Radeon R4/R5 Graphics]
            bus-ID: 00:01.0 chip-ID: 1002:9851
            Display Server: X.Org 1.18.4 drivers: ati,radeon (unloaded: fbdev,vesa)
